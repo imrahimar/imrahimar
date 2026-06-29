@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abdul Rahim Shajahan 👋
 
-<!--
-**imrahimar/imrahimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer based in Riyadh, Saudi Arabia.
+5+ years building enterprise backend systems with NestJS and PostgreSQL.
+Currently specialising in cloud-native development on Microsoft Azure.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Backend:** NestJS · Node.js · Express.js · TypeScript
+- **Database:** PostgreSQL · MongoDB · Redis
+- **Cloud:** Microsoft Azure · AZ-204 in progress
+- **DevOps:** Docker · CI/CD · GitHub Actions
+- **Tools:** TypeORM · Swagger · Postman · Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+**CloudPulse** — Enterprise task and notification platform
+Built with NestJS + PostgreSQL + Azure
+→ github.com/imrahimar/cloudpulse
+
+## Experience
+- Senior Software Developer — SHAR Company, Riyadh
+- Web & Mobile Developer — Centre Systems Arabia, Al Khobar
+- Web Developer — Vantos Technologies, India
+
+## Connect
+- 🌐 iamrahim.in
+- 💼 linkedin.com/in/imrahimar
+- 📧 developer.rahimar@outlook.com
