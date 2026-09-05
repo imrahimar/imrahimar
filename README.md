@@ -6,6 +6,7 @@ Specialized in modular backend systems (NestJS, PostgreSQL), Identity Management
 
 ## Tech Stack
 - **Architecture & Backend:** NestJS, TypeScript, Modular Monoliths, RBAC, API Security
+- **Frontend:** Next.js, React, Tailwind CSS, TypeScript
 - **Identity & Cloud:** Authentik OIDC (SSO), Microsoft Azure (Blob Storage), AZ-204 in progress
 - **Database:** PostgreSQL, MongoDB, Redis
 - **DevOps & Infrastructure:** Docker, Docker Compose, CI/CD, GitHub Actions
