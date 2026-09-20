@@ -29,5 +29,5 @@ Architected backend ecosystem, secure OIDC authentication flows, and scalable do
 
 ## Connect
 - Website: [imrahim.com](https://imrahim.com)
-- LinkedIn: [linkedin.com/in/imrahimar](https://linkedin.com/in/imrahimar)
+- LinkedIn: [linkedin.com/in/imrahimar](https://linkedin.com/in/imrahim)
 - Email: hello@imrahim.com
